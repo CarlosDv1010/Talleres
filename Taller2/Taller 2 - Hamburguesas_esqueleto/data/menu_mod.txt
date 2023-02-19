@@ -1,0 +1,19 @@
+corral;14000;50
+corral queso;16000;50
+corral pollo;15000;50
+corralita;13000;50
+todoterreno;25000;50
+1/2 libra;25000;50
+especial;24000;50
+casera;23000;50
+mexicana;22000;50
+criolla;22000;50
+costeña;20000;50
+hawaiana;20000;50
+wrap de pollo;15000;50
+wrap de lomo;22000;50
+ensalada mexicana;20900;50
+papas medianas;5500;50
+papas grandes;6900;50
+papas en casco medianas;5500;50
+papas en casco grandes;6900;50

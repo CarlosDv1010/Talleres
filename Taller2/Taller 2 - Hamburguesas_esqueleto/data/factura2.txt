@@ -1,0 +1,8 @@
+------ FACTURA ------
+Nombre: carlos diaz|	Dirección: calle 52|	Id Pedido: 2
+Combo: combo corral: 22050
+Precio Neto: 22050
+Valor IVA: 4189
+------------------------
+Precio total: 26239
+------------------------

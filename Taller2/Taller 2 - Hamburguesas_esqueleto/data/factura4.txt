@@ -1,0 +1,9 @@
+------ FACTURA ------
+Nombre: a|	Dirección: a|	Id Pedido: 4
+Combo: combo corral queso: 23850|	Calorías: 120
+Total de calorías: 120
+Precio Neto: 23850
+Valor IVA: 4531
+------------------------
+Precio total: 28381
+------------------------

@@ -1,0 +1,8 @@
+------ FACTURA ------
+Nombre: carlos diaz|	Dirección: calle 45|	Id Pedido: 2
+Combo: combo especial: 32084
+Precio Neto: 32084
+Valor IVA: 6095
+------------------------
+Precio total: 38179
+------------------------
