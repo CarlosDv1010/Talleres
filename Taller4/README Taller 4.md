@@ -1,0 +1,1 @@
+La ejecución de la aplicación es bastante intuitiva a mi parecer. Lo único raro es que cuando se inicia la aplicación, los valores por default son tablero 3x3 y dificultad en fácil hasta que se especifique lo contrario. Los botones funcionan como uno se esperaría que funcionaran. Hay un nombre de jugador por default si no se especifica uno.
