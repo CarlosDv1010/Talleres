@@ -1,0 +1,8 @@
+------ FACTURA ------
+Nombre: jiji|	Dirección: calle 90|	Id Pedido: 2
+gaseosa: 5000
+Precio Neto: 5000
+Valor IVA: 950
+------------------------
+Precio total: 5950
+------------------------
