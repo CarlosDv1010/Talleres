@@ -1,0 +1,1 @@
+Todo lo relacionado con el Taller 6 se encuentra en esta carpeta. Las modificaciones y pruebas se realizaron sobre la versión del taller 2 sin modificaciones. (Solo dice taller2.comportamiento, no la que dice taller2.mod.comportamiento y taller2.consola) 
